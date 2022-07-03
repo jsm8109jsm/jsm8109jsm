@@ -1,4 +1,4 @@
-### Hi there 👋
+### 언젠가 꾸며야지
 
 <!--
 **jsm8109jsm/jsm8109jsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
